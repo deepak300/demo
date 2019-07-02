@@ -1,15 +1,37 @@
-{
-  "profile": {
-    "name": "Arridae Infosec",
-    "posts": [
-    { "id": 1, "title": "Blog" },
-    { "id": 2, "title": "News" },
-    { "id": 3, "title": "Video" },
-      "comments": [
-    { "id": 1, "body": "Pankaj makes good blogs", "postId": 1 },
-    { "id": 2, "body": "Girish makes good Videos", "postId": 2 },
-    { "id": 3, "body": "halashankar Hotstar Premium King", "postId": 3 }
-  ]
-  ]
-  }
+{  
+   "profile":{  
+      "name":"Arridae Infosec",
+      "posts":{  
+         {  
+            "id":1,
+            "title":"Blog"
+         },
+         {  
+            "id":2,
+            "title":"News"
+         },
+         {  
+            "id":3,
+            "title":"Video"
+         },
+
+      }      "comments":{  
+         {  
+            "id":1,
+            "body":"Pankaj makes good blogs",
+            "postId":1
+         },
+         {  
+            "id":2,
+            "body":"Girish makes good Videos",
+            "postId":2
+         },
+         {  
+            "id":3,
+            "body":"halashankar Hotstar Premium King",
+            "postId":3
+         }
+      }
+   }
+}
 }
