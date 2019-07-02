@@ -4,9 +4,9 @@
     { "id": 1, "title": "News" },
     { "id": 2, "title": "Videos" },
     { "id": 3, "title": "Blogs" },
-    "comment": [
+    "comment": {
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-    ],            
+    { "id": 2, "body": "some comment", "postId": 1 },
+    },            
   ],
 }
